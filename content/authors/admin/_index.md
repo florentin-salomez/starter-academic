@@ -31,7 +31,7 @@ education:
     institution: Université de Lille Sciences et Technologies
     year: 2018
   - course: MEng in General Engineering
-    institution: Hautes Etudes d'Ingénieur
+    institution: HEI - Hautes Etudes d'Ingénieur
     year: 2018
 
 # Social/Academic Networking
@@ -67,6 +67,6 @@ user_groups:
 # - Visitors
 ---
 
-Florentin Salomez is a PhD Student in electrical engineering. After studying electrical engineering at the [University of Lille](https://www.univ-lille.fr/home/), and general engineering at [HEI](https://www.hei.fr/). He joined the [L2EP](http://l2ep.univ-lille.fr/?lang=en/) Lab in 2019 as a power electronic engineer in the [CE2I](https://ce2i.pole-medee.com/home/) project working on transistor technologies comparison regarding thermal issues. Then he has started a PhD in Oct. 2019 about optimal design of magnetic components for high frequency converters with the objective of volume minimization of the EMC filters. His research interests include high frequency (1MHz) power electronic converters, magnetic components design, filter design for electromagnetic compatibility issues, and numerical optimisation using Python.
+Florentin Salomez is a PhD Student in electrical engineering. After studying electrical engineering at the [University of Lille](https://www.univ-lille.fr/home/), France and general engineering at [HEI](https://www.hei.fr/), Lille, France. He joined the [L2EP](http://l2ep.univ-lille.fr/?lang=en/) Lab, Lille, France in 2019 as a power electronic engineer in the [CE2I](https://ce2i.pole-medee.com/home/) project working on transistor technologies comparison regarding thermal issues. Then he has started a PhD in Oct. 2019 about optimal design of magnetic components for high frequency converters with the objective of volume minimization of the EMC filters. His research interests include high frequency (1MHz) power electronic converters, magnetic components design, filter design for electromagnetic compatibility issues, and numerical optimisation using Python.
 
-Florentin likes playing badminton, tinkering with 3D printing, and programming computers (both old and new).
+Florentin likes playing badminton, tinkering with 3D printing, and programming computers (both old and new ones).
