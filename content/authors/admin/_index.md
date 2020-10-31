@@ -1,17 +1,17 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Florentin Salomez
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Student in Electrical Engineering
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Université de Lille
+  url: "https://www.univ-lille.fr/home/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
