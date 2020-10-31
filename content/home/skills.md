@@ -15,22 +15,34 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "r-project"
+  icon = "python"
   icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  name = "Python 3"
+  description = "IPython, Numpy, Matplotlib, Pandas"
   
 [[feature]]
-  icon = "chart-line"
+  icon = "code-branch"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "Git"
+  description = "Version control for research code"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "language"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Languages"
+  description = "French (mother-tongue), English (fluent), German (average)"
+  
+[[feature]]
+  icon = "microchip"
+  icon_pack = "fas"
+  name = "Microcontroller"
+  description = "Arduino"
+  
+[[feature]]
+  icon = "industry"
+  icon_pack = "fas"
+  name = "Engineering"
+  description = "3D CAD (FreeCAD, Fusion), 3D Printing (Cura)"
 
 # Uncomment to use emoji icons.
 # [[feature]]
